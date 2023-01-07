@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - KeyCube
   - Enemy
   layers:
   - Default
@@ -14,8 +15,8 @@ TagManager:
   - Water
   - UI
   - LevelBorder
-  - 
   - Player
+  - PostPro 
   - 
   - 
   - 
